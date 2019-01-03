@@ -10,5 +10,5 @@ for (var i = 0; i < allDivs.length; i++)
   }
 }
 
-// Mock of decorateDiv function for testing purposes
+//
 function decorateDiv(div) {}
